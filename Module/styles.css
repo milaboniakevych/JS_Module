@@ -37,6 +37,10 @@ h1, h2 {
     justify-content: space-between;
 }
 
+.user-block:hover{
+    background-color: #f0d4ff;
+}
+
 .user-button {
     border-radius: 3px;
     background: #faf9ff;
